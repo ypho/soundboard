@@ -1,0 +1,13 @@
+# MacOS
+.DS_Store
+
+# PhpStorm
+.idea
+
+# Dependency directories
+node_modules
+dist
+public
+
+# Random unused files
+mix-manifest.json
