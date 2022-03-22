@@ -433,5 +433,40 @@
     "file": "./sounds/medicine_clotheson.mp3",
     "title": "Go, and put your clothes on",
     "tag": "medicine"
+  },
+  {
+    "file": "./sounds/brommer_1234567.mp3",
+    "title": "1, 2, 3, 4, 5, 6, 7",
+    "tag": "brommer"
+  },
+  {
+    "file": "./sounds/brommer_water.mp3",
+    "title": "Brommer in het water gereden",
+    "tag": "brommer"
+  },
+  {
+    "file": "./sounds/toren-c_lift_zitjenoutekijken.mp3",
+    "title": "Wat zit je nou te kijken?",
+    "tag": "Toren C"
+  },
+  {
+    "file": "./sounds/toren-c_lift_wiljemnslipjezien.mp3",
+    "title": "Wil je m'n slipje zien?",
+    "tag": "Toren C"
+  },
+  {
+    "file": "./sounds/toren-c_lift_ohwaterg.mp3",
+    "title": "Oh, wat erg!",
+    "tag": "Toren C"
+  },
+  {
+    "file": "./sounds/toren-c_lift_betalenpannenkoek.mp3",
+    "title": "Betalen pannenkoek!",
+    "tag": "Toren C"
+  },
+  {
+    "file": "./sounds/toren-c_lift_ongewenstaanteranden.mp3",
+    "title": "Gewoon ongewenst aan te randen",
+    "tag": "Toren C"
   }
 ]
