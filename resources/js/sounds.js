@@ -1,6 +1,5 @@
 
 async function getSounds() {
-    alert('sdf');
     return '{\n' +
         '  "sounds": [\n' +
         '    {\n' +
