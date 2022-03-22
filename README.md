@@ -14,6 +14,12 @@ Just a plain ol' soundboard.
 ## Deploying code
 - To deploy to a production-like environment, copy all contents of the `public` folder
 
+## Adding sounds
+Add the sound file to `resources/sounds` and then update the `resources.json` file. In
+the sounds.json file, each "tag" is a separate filter on the board.
+
+After updating, re-run `npm run dev`.
+
 ## "How to pay here for?"
 [![Coffee](https://img.shields.io/static/v1?label=Coffee&message=Buy%20me%20a%20coffee&color=FFDD00&logo=Buy%20me%20a%20coffee)](https://www.buymeacoffee.com/ypho)
 
