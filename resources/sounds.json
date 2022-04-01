@@ -468,5 +468,20 @@
     "file": "./sounds/toren-c_lift_ongewenstaanteranden.mp3",
     "title": "Gewoon ongewenst aan te randen",
     "tag": "Toren C"
+  },
+  {
+    "file": "./sounds/austin_powers_do_i_make_you.mp3",
+    "title": "Do I make you horny?",
+    "tag": "Austin Powers"
+  },
+  {
+    "file": "./sounds/austin_powers_oh_bahave.mp3",
+    "title": "Oh behave!",
+    "tag": "Austin Powers"
+  },
+  {
+    "file": "./sounds/austin_powers_throw_me.mp3",
+    "title": "Throw me a freakin' bone here!",
+    "tag": "Austin Powers"
   }
 ]
