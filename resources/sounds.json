@@ -488,5 +488,10 @@
     "file": "./sounds/morty_trash.mp3",
     "title": "Hmm trash, I love trash...",
     "tag": "Rick & Morty"
+  },
+  {
+    "file": "./sounds/noot.mp4",
+    "title": "Noot, Noot!",
+    "tag": "Pingu"
   }
 ]
