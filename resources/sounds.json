@@ -493,5 +493,10 @@
     "file": "./sounds/noot.mp4",
     "title": "Noot, Noot!",
     "tag": "Pingu"
+  },
+    {
+    "file": "./sounds/Das war ein Befehl!.mp3",
+    "title": "Das war ein Befehl!",
+    "tag": "Der untergang"
   }
 ]
