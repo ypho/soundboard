@@ -494,9 +494,29 @@
     "title": "Noot, Noot!",
     "tag": "Pingu"
   },
-    {
-    "file": "./sounds/Das war ein Befehl!.mp3",
+  {
+    "file": "./sounds/untergang_befehl.mp3",
     "title": "Das war ein Befehl!",
-    "tag": "Der untergang"
+    "tag": "Der Untergang"
+  },
+  {
+    "file": "./sounds/effects/robert_b_weide.mp3",
+    "title": "Directed by Robert B. Weide",
+    "tag": "Effects"
+  },
+  {
+    "file": "./sounds/effects/badum_tss.mp3",
+    "title": "Badum tss",
+    "tag": "Effects"
+  },
+  {
+    "file": "./sounds/effects/dun_dun_dun.mp3",
+    "title": "Dun, Dun, DUNNNNNN!",
+    "tag": "Effects"
+  },
+  {
+    "file": "./sounds/effects/wah_wah_wah_wahhh.mp3",
+    "title": "Wah, wah, wah, wahhhhhh",
+    "tag": "Effects"
   }
 ]
