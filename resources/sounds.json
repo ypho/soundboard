@@ -523,5 +523,10 @@
     "file": "./sounds/effects/circus.mp3",
     "title": "Circus",
     "tag": "Effects"
+  },
+  {
+    "file": "./sounds/effects/ha-gay.mp3",
+    "title": "Ha, GAY!",
+    "tag": "Effects"
   }
 ]
