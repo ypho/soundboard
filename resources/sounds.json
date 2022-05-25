@@ -518,5 +518,10 @@
     "file": "./sounds/effects/wah_wah_wah_wahhh.mp3",
     "title": "Wah, wah, wah, wahhhhhh",
     "tag": "Effects"
+  },
+  {
+    "file": "./sounds/effects/circus.mp3",
+    "title": "Circus",
+    "tag": "Effects"
   }
 ]
