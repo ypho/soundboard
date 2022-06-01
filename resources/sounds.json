@@ -528,5 +528,10 @@
     "file": "./sounds/effects/ha-gay.mp3",
     "title": "Ha, GAY!",
     "tag": "Effects"
+  },
+  {
+    "file": "./sounds/effects/apple.mp3",
+    "title": "Apple",
+    "tag": "Effects"
   }
 ]
