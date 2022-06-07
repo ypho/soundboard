@@ -533,5 +533,20 @@
     "file": "./sounds/effects/apple.mp3",
     "title": "Apple",
     "tag": "Effects"
+  },
+  {
+    "file": "./sounds/fietsopa/jester_saw_you_internet.mp3",
+    "title": "I saw you on internet",
+    "tag": "jester"
+  },
+  {
+    "file": "./sounds/fietsopa/jester_now_i_am_real.mp3",
+    "title": "Now I am real",
+    "tag": "jester"
+  },
+  {
+    "file": "./sounds/fietsopa/fietsopa_time_for_s3x.mp3",
+    "title": "Time for sex",
+    "tag": "Fietsopa"
   }
 ]
