@@ -548,5 +548,10 @@
     "file": "./sounds/fietsopa/fietsopa_time_for_s3x.mp3",
     "title": "Time for sex",
     "tag": "Fietsopa"
+  },
+  {
+    "file": "./sounds/ivo_xolphin.mp3",
+    "title": "Ivo Yo",
+    "tag": "Ypho"
   }
 ]
