@@ -553,5 +553,15 @@
     "file": "./sounds/ivo_xolphin.mp3",
     "title": "Ivo Yo",
     "tag": "Ypho"
+  },
+  {
+    "file": "./sounds/autotheorie_cbr_n.mp3",
+    "title": "CBR N$%^&kt",
+    "tag": "Autotheorie"
+  },
+  {
+    "file": "./sounds/autotheorie_kk_dom.mp3",
+    "title": "Je bent kk dom",
+    "tag": "Autotheorie"
   }
 ]
