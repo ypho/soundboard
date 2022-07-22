@@ -563,5 +563,15 @@
     "file": "./sounds/autotheorie_kk_dom.mp3",
     "title": "Je bent kk dom",
     "tag": "Autotheorie"
+  },
+  {
+    "file": "./sounds/oi-oi-oi.mp3",
+    "title": "Oi oi oi",
+    "tag": "Lang leve de liefde"
+  },
+  {
+    "file": "./sounds/hatsikidee.mp3",
+    "title": "Hatsikidee!",
+    "tag": "Lang leve de liefde"
   }
 ]
